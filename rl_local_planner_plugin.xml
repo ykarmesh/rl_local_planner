@@ -1,0 +1,8 @@
+<library path="lib/librl_lib">
+	<class name="rl_local_planner/DDPGPlanner" type="rl_local_planner::DDPGPlanner" base_class_type="nav_core::BaseLocalPlanner">
+		<description>
+			The rl_local_planner package implements a plugin
+			to the base_local_planner of the 2D navigation stack.
+		</description>
+	</class>
+</library>
